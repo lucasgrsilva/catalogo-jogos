@@ -1,0 +1,2 @@
+# Catalogo de Jogos
+Programa simples que implementa a classe `CatalogoJogos`, que contém a lista `jogos`, que armazena os nomes dos jogos, o método `add` para adicionar o nome de um jogo e o método `contains`, que verifica se um jogo está na lista.
